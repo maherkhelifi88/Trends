@@ -1,30 +1,30 @@
 {
     "trend_1": {
-      "layout": "restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,drinks:0.5:video",
+      "layout": "restaurant interior:2.81:video,restaurant interior:1.75:video,restaurant interior:3.37:video,restaurant interior:3.4:video,restaurant interior:3.36:video,restaurant interior:3.23:video",
       "music":"happyHour.m4a"
     },
     "trend_2": {
-      "layout": "restaurant interior:0.75:photo,restaurant interior:0.75:photo,restaurant interior:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,drinks:0.75:photo,drinks:0.75:photo",
+      "layout": "restaurant interior:2.37:photo,restaurant interior:0.71:photo,restaurant interior:0.57:photo,food:1.78:photo",
       "music":"obssessed.m4a"
     },
   "trend_3": {
-      "layout": "restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,drinks:0.8:video,drinks:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video",
+      "layout": "restaurant interior:0.76:video,restaurant interior:0.69:video,restaurant interior:0.74:video,restaurant interior:0.73:video,restaurant interior:0.74:video,restaurant interior:1.05:video,drinks:1.84:video,drinks:1.57:video",
       "music":"relatable.m4a"
     },
   "trend_4": {
-      "layout": "restaurant interior:1:photo,restaurant interior:1:photo,restaurant interior:1:photo,restaurant interior:1:photo,drinks:1:photo,drinks:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo",
+      "layout": "restaurant interior:2.95:photo,restaurant interior:3.01:photo,restaurant interior:1.98:photo,restaurant interior:1:photo,drinks:1:photo,drinks:2.53:photo",
       "music":"PHOTOGRAPHY.m4a"
     },
   "trend_5": {
-      "layout":"restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo",
+      "layout":"restaurant interior:0.53:photo,restaurant interior:0.39:photo,restaurant interior:0.61:photo,restaurant interior:0.55:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.38:photo,restaurant interior:1.76:photo",
       "music":"COUNTDOWN.m4a"
     },
   "trend_6": {
-      "layout": "restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo",
+      "layout": "restaurant interior:0.25:photo,restaurant interior:0.2:photo,restaurant interior:0.2:photo,restaurant interior:0.2:photo,restaurant interior:0.19:photo",
       "music":"DANCE.m4a"
     },
   "trend_7": {
-      "layout": "restaurant interior:2:video,food:2:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video",
+      "layout": "restaurant interior:3.09:video,food:2.7:video,food:2.69:video,food:2.21:video,food:2.75:video",
       "music":"thoia.m4a"
     },
   "trend_8": {
