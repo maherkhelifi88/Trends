@@ -1,142 +1,130 @@
 {
-    "trend_1": {
-      "layout": "restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,drinks:0.5:video",
-      "music":"happyHour.m4a"
-    },
-    "trend_2": {
-      "layout": "restaurant interior:0.75:photo,restaurant interior:0.75:photo,restaurant interior:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,drinks:0.75:photo,drinks:0.75:photo",
-      "music":"obssessed.m4a"
-    },
+  "trend_1": {
+    "layout": "restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,drinks:0.5:video",
+    "music": "happyHour.m4a"
+  },
+  "trend_2": {
+    "layout": "restaurant interior:0.75:photo,restaurant interior:0.75:photo,restaurant interior:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,food:0.75:photo,drinks:0.75:photo,drinks:0.75:photo",
+    "music": "obssessed.m4a"
+  },
   "trend_3": {
-      "layout": "restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,drinks:0.8:video,drinks:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video",
-      "music":"relatable.m4a"
-    },
+    "layout": "restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,restaurant interior:0.8:video,drinks:0.8:video,drinks:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video",
+    "music": "relatable.m4a"
+  },
   "trend_4": {
-      "layout": "restaurant interior:1:photo,restaurant interior:1:photo,restaurant interior:1:photo,restaurant interior:1:photo,drinks:1:photo,drinks:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo",
-      "music":"PHOTOGRAPHY.m4a"
-    },
+    "layout": "restaurant interior:1:photo,restaurant interior:1:photo,restaurant interior:1:photo,restaurant interior:1:photo,drinks:1:photo,drinks:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo,food:1:photo",
+    "music": "PHOTOGRAPHY.m4a"
+  },
   "trend_5": {
-      "layout":"restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo",
-      "music":"COUNTDOWN.m4a"
-    },
+    "layout": "restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,restaurant interior:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,drinks:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo,food:0.5:photo",
+    "music": "COUNTDOWN.m4a"
+  },
   "trend_6": {
-      "layout": "restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo",
-      "music":"DANCE.m4a"
-    },
+    "layout": "restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,restaurant interior:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,drinks:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo,food:0.25:photo",
+    "music": "DANCE.m4a"
+  },
   "trend_7": {
-      "layout": "restaurant interior:2:video,food:2:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video",
-      "music":"thoia.m4a"
-    },
+    "layout": "restaurant interior:2:video,food:2:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video",
+    "music": "thoia.m4a"
+  },
   "trend_8": {
-      "layout": "restaurant interior:3:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video",
-      "music":"lavida.m4a"
-    },
+    "layout": "restaurant interior:3:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video",
+    "music": "lavida.m4a"
+  },
   "trend_9": {
-      "layout": "food:1.5:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1.5:video,food:1:video,food:2:video",
-      "music":"popping.m4a"
-    },
+    "layout": "food:1.5:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1.5:video,food:1:video,food:2:video",
+    "music": "popping.m4a"
+  },
   "trend_10": {
-      "layout": "restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:1.7:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:5:video,",
-      "music":"acidcity.m4a"
-    },
-  
+    "layout": "restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:1.7:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:0.4:video,restaurant interior:5:video,",
+    "music": "acidcity.m4a"
+  },
   "trend_11": {
-      "layout":"restaurant interior:1:video,restaurant interior:1:video,restaurant interior:1:video,restaurant interior:0.4:video, food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video",
-      "music":"pedro.m4a"
-    },
+    "layout": "restaurant interior:1:video,restaurant interior:1:video,restaurant interior:1:video,restaurant interior:0.4:video, food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video",
+    "music": "pedro.m4a"
+  },
   "trend_12": {
-      "layout":"restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,food:1.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video",
-      "music":"girl.m4a"
-    },
+    "layout": "restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,restaurant interior:0.5:video,food:1.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video",
+    "music": "girl.m4a"
+  },
   "trend_13": {
-      "layout":"restaurant interior:0.6:video,restaurant interior:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video",
-      "music":"delight.m4a"
-    },
+    "layout": "restaurant interior:0.6:video,restaurant interior:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video,food:0.6:video,drinks:0.6:video",
+    "music": "delight.m4a"
+  },
   "trend_14": {
-      "layout":"restaurant interior:0.5:video,restaurant interior:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,food:0.5:video,food:0.5:video,",
-      "music":"spottieOttie.m4a"
-    },
+    "layout": "restaurant interior:0.5:video,restaurant interior:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,food:0.5:video,food:0.5:video,",
+    "music": "spottieOttie.m4a"
+  },
   "trend_15": {
-      "layout":"restaurant interior:1.5:video,restaurant interior:1.5:video,food:1.5:video,food:1.5:video,drinks:1.5:video,drinks:1.5:video,food:1.5:video,food:1.5:video,drinks:1.5:video",
-      "music":"sway.m4a"
-    },
+    "layout": "restaurant interior:1.5:video,restaurant interior:1.5:video,food:1.5:video,food:1.5:video,drinks:1.5:video,drinks:1.5:video,food:1.5:video,food:1.5:video,drinks:1.5:video",
+    "music": "sway.m4a"
+  },
   "trend_16": {
-      "layout":"restaurant interior:2:video,restaurant interior:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,restaurant interior:2:video",
-      "music":"loseControl.m4a"
-    },
-    "trend_17": {
-      "layout":"restaurant interior:1:video,restaurant interior:1:video, food:1:video,food:0.75:video,drinks:0.75:video,food:1:video,drinks:0.75:video,food:1:video,food:1:video,restaurant interior:1:video",
-      "music":"queen.m4a"
-    },
-"trend_18": {
-      "layout":"food:1.5:video,food:1:video,food:1:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,restaurant interior:1:video",
-      "music":"loveLangage.m4a"
-    },
-
-"trend_19": {
-      "layout":"restaurant interior:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video",
-      "music":"liketoeat.m4a"
-    },
-
-"trend_20": {
-      "layout":"restaurant interior:1.3:video,restaurant interior:0.7:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:0.9:video,drinks:0.7:video,food:0.6:video,drinks:0.6:video,food:0.5:video,food:1.5:video,drinks:0.6:video,food:0.8:video",
-      "music":"loveyou.m4a"
-    },
-
-"trend_21": {
-      "layout":"restaurant interior:1.7:video,restaurant interior:2.2:video,food:2.2:video,food:2.2:video,drinks:2.2:video,food:2.2:video,drinks:2.2:video,food:2.2:video,food:2.2:video,food:3:video, restaurant interior:3:video",
-      "music":"wannago.m4a"
-    },
-"trend_22": {
-      "layout":"restaurant interior:4:video, food:4.3:video,food:4:video,drinks:4:video,food:4:video,drinks:3.7:video,food:3:video",
-      "music":"doYouKnow.m4a"
-    },
-"trend_23": {
-      "layout":"restaurant interior:2.7:video, food:3.3:video,food:3.4:video,drinks:3.4:video,food:3.4:video,drinks:3.3:video,food:3.5:video,food:3.4:video,food:3.4:video,food:3.4:video,drinks:3.4:video,restaurant interior:3.7:video",
-      "music":"drop.m4a"
-    },
-"trend_24": {
-      "layout":"restaurant interior:1.8:video,restaurant interior:1.3:video,restaurant interior:1.2:video,restaurant interior:1.75:video,restaurant interior:0.9:video,restaurant interior:1.75:video,restaurant interior:0.8:video, food:1.25:video,food:1.25:video,drinks:1:video,food:1:video,drinks:1:video,food:1.15:video,food:1.15:video,food:1:video,food:1.1:video,drinks:1:video,food:1:video,food:1:video,drinks:2:video,restaurant interior:1:video",
-      "music":"sun.m4a"
-    },
-
-"trend_25": {
-      "layout":"restaurant interior:2.7:video, food:1.6:video,food:1:video,drinks:0.9:video,food:2.4:video,drinks:0.9:video,food:1.1:video,drinks:0.9:video,restaurant interior:2.7:video",
-      "music":"summertime.m4a"
-    },
-"trend_26": {
-     "layout":"restaurant interior:0.7:video, food:0.6:video,food:0.65:video,food:0.75:video,food:0.6:video,food:0.6:video,food:0.6:video,food:0.7:video,drinks:0.65:video,food:0.6:video,drinks:0.6:video,food:0.7:video,food:0.65:video,drinks:0.6:video,food:0.75:video,food:0.75:video,food:0.7:video,drinks:0.75:video,food:0.75:video,food:0.7:video,drinks:0.75:video,food:0.9:video,food:0.6:video,drinks:0.7:video",
-      "music":"letsgetit.m4a"
-
-    },
-    "trend_27": {
-      "layout": "food:0.72:video,food:0.31:video,food:0.3:video,food:0.3:video,food:0.3:video,food:0.34:video,food:0.3:video,food:0.33:video,food:0.3:video,food:0.3:video",
-      "music": "5.m4a"
-    },
-    "trend_28": {
-      "layout": "food:0.29:video,food:0.3:video,food:0.3:video,food:0.3:video,food:0.22:video,food:0.31:video,food:2.2:video,food:0.33:video,food:0.27:video,food:0.34:video,food:0.33:video,food:0.33:video,food:0.57:video,food:0.23:video,food:0.23:video,food:0.2:video,food:0.2:video,food:0.2:video,food:0.4:video",
-      "music": "10.m4a"
-    },
-    "trend_29": {
-      "layout": "restaurant interior:0.8:video,food:0.63:video,restaurant interior:0.6:video,food:0.47:video,food:0.74:video,drinks:0.63:video,drinks:0.46:video,restaurant interior:0.83:video",
-      "music": "25.m4a"
-    },
-    "trend_30": {
-      "layout": "food:1.09:video,food:1.10:video,Drink:1.06:video,food:0.28:video,food:0.73:video,Drink:1.10,video ",
-      "music": "Monday,Tuesday,Wednesday.m4a"
-    },
-    "trend_31": {
-      "layout": "Restaurant:0.82:video,Drink:0.81:video,food:0.79:video,Drink:0.81:video,Restaurant:0.8:video,Restaurant:0.8",
-      "music": "Trend2.m4a"
-    },
-    "trend_32": {
-      "layout": "Food:1.02:video,food:1.14:video,food:1.17:video,food:0.95:video,food:0.71:video,food:0.74:video,food:0.72:video,food:0.68:video,food:0.7",
-      "music": "Trend3.m4a"
-    }
-  
-  
+    "layout": "restaurant interior:2:video,restaurant interior:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,restaurant interior:2:video",
+    "music": "loseControl.m4a"
+  },
+  "trend_17": {
+    "layout": "restaurant interior:1:video,restaurant interior:1:video, food:1:video,food:0.75:video,drinks:0.75:video,food:1:video,drinks:0.75:video,food:1:video,food:1:video,restaurant interior:1:video",
+    "music": "queen.m4a"
+  },
+  "trend_18": {
+    "layout": "food:1.5:video,food:1:video,food:1:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,food:1.5:video,restaurant interior:1:video",
+    "music": "loveLangage.m4a"
+  },
+  "trend_19": {
+    "layout": "restaurant interior:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video,food:0.8:video",
+    "music": "liketoeat.m4a"
+  },
+  "trend_20": {
+    "layout": "restaurant interior:1.3:video,restaurant interior:0.7:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1:video,food:0.9:video,drinks:0.7:video,food:0.6:video,drinks:0.6:video,food:0.5:video,food:1.5:video,drinks:0.6:video,food:0.8:video",
+    "music": "loveyou.m4a"
+  },
+  "trend_21": {
+    "layout": "restaurant interior:1.7:video,restaurant interior:2.2:video,food:2.2:video,food:2.2:video,drinks:2.2:video,food:2.2:video,drinks:2.2:video,food:2.2:video,food:2.2:video,food:3:video, restaurant interior:3:video",
+    "music": "wannago.m4a"
+  },
+  "trend_22": {
+    "layout": "restaurant interior:4:video, food:4.3:video,food:4:video,drinks:4:video,food:4:video,drinks:3.7:video,food:3.7:video",
+    "music": "doYouKnow.m4a"
+  },
+  "trend_23": {
+    "layout": "restaurant interior:2.7:video, food:3.3:video,food:3.4:video,drinks:3.4:video,food:3.4:video,drinks:3.3:video,food:3.5:video,food:3.4:video,food:3.4:video,food:3.4:video,drinks:3.4:video,restaurant interior:3.7:video",
+    "music": "drop.m4a"
+  },
+  "trend_24": {
+    "layout": "restaurant interior:1.8:video,restaurant interior:1.3:video,restaurant interior:1.2:video,restaurant interior:1.75:video,restaurant interior:0.9:video,restaurant interior:1.75:video,restaurant interior:0.8:video, food:1.25:video,food:1.25:video,drinks:1:video,food:1:video,drinks:1:video,food:1.15:video,food:1.15:video,food:1:video,food:1.1:video,drinks:1:video,food:1:video,food:1:video,drinks:2:video,restaurant interior:1:video",
+    "music": "sun.m4a"
+  },
+  "trend_25": {
+    "layout": "restaurant interior:2.7:video, food:1.6:video,food:1:video,drinks:0.9:video,food:2.4:video,drinks:0.9:video,food:1.1:video,drinks:0.9:video,restaurant interior:2.7:video",
+    "music": "summertime.m4a"
+  },
+  "trend_26": {
+    "layout": "restaurant interior:0.7:video, food:0.6:video,food:0.65:video,food:0.75:video,food:0.6:video,food:0.6:video,food:0.6:video,food:0.7:video,drinks:0.65:video,food:0.6:video,drinks:0.6:video,food:0.7:video,food:0.65:video,drinks:0.6:video,food:0.75:video,food:0.75:video,food:0.7:video,drinks:0.75:video,food:0.75:video,food:0.7:video,drinks:0.75:video,food:0.9:video,food:0.6:video,drinks:0.7:video",
+    "music": "letsgetit.m4a"
+  },
+  "trend_27": {
+    "layout": "food:0.72:video,food:0.31:video,food:0.3:video,food:0.3:video,food:0.3:video,food:0.34:video,food:0.3:video,food:0.33:video,food:0.3:video,food:0.3:video",
+    "music": "5.m4a"
+  },
+  "trend_28": {
+    "layout": "food:0.29:video,food:0.3:video,food:0.3:video,food:0.3:video,food:0.22:video,food:0.31:video,food:2.2:video,food:0.33:video,food:0.27:video,food:0.34:video,food:0.33:video,food:0.33:video,food:0.57:video,food:0.23:video,food:0.23:video,food:0.2:video,food:0.2:video,food:0.2:video,food:0.4:video",
+    "music": "10.m4a"
+  },
+  "trend_29": {
+    "layout": "restaurant interior:0.8:video,food:0.63:video,restaurant interior:0.6:video,food:0.47:video,food:0.74:video,drinks:0.63:video,drinks:0.46:video,restaurant interior:0.83:video",
+    "music": "25.m4a"
+  },
+  "trend_30": {
+    "layout": "food:1.09:video,food:1.10:video,Drink:1.06:video,food:0.28:video,food:0.73:video,Drink:1.10,video ",
+    "music": "Monday,Tuesday,Wednesday.m4a"
+  },
+  "trend_31": {
+    "layout": "Restaurant:0.82:video,Drink:0.81:video,food:0.79:video,Drink:0.81:video,Restaurant:0.8:video,Restaurant:0.8",
+    "music": "Trend2.m4a"
+  },
+  "trend_32": {
+    "layout": "Food:1.02:video,food:1.14:video,food:1.17:video,food:0.95:video,food:0.71:video,food:0.74:video,food:0.72:video,food:0.68:video,food:0.7",
+    "music": "Trend3.m4a"
   }
-  
-  
-  
-  
+}
