@@ -28,9 +28,9 @@
       "music":"thoia.m4a"
     },
   "trend_8": {
-    "layout": "restaurant interior:3:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video",
-    "music": "lavida.m4a"
-  },
+     "layout": "restaurant interior:2.68:video,drinks:2.39:video,drinks:2.69:video,drinks:2.42:video,drinks:2.67:video,drinks:2.14:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video,drinks:1:video",
+      "music":"lavida.m4a"
+    },
   "trend_9": {
     "layout": "food:1.5:video,food:1:video,food:1:video,food:1:video,food:1:video,food:1.5:video,food:1:video,food:2:video",
     "music": "popping.m4a"
