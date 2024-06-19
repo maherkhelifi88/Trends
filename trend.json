@@ -1,4 +1,12 @@
 {
+  "trend_1": {
+    "layout": "restaurant interior:0.5:video,drinks:0.5:video,food:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,food:0.5:video,food:0.5:video,drinks:0.5:video,restaurant interior:1.2:video",
+    "music": "happyHour.m4a"
+  },
+  "trend_2": {
+    "layout": "restaurant interior:1:video,food:0.9:video,food:1:video,food:0.9:video",
+    "music": "obssessed.m4a"
+  },
  "trend_1": {
       "layout": "restaurant interior:2.81:video,restaurant interior:1.75:video,restaurant interior:3.37:video,restaurant interior:3.4:video,restaurant interior:3.36:video,restaurant interior:3.23:video",
       "music":"happyHour.m4a"
