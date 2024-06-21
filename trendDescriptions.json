@@ -1,11 +1,11 @@
 {
   "trend_1": {
     "layout": "Trend 1 highlights the dynamic and lively ambiance of the restaurant. The video-heavy layout captures the vibrancy of the interior and the tantalizing details of the food and drinks. The music adds a relaxed and inviting vibe, making viewers feel like they are right there, enjoying a meal and drinks with loved ones. The emphasis is on the immersive experience of dining at the restaurant.",
-    "fadeout": true 
+    "fadeout": false 
   },
   "trend_2": {
     "layout": "Trend 2 focuses on capturing the elegance and aesthetic appeal of the restaurant through photographs. The layout uses high-quality photos to showcase the interior design, delicious food, and exquisite drinks. The accompanying music, underscores a sophisticated and passionate atmosphere, highlighting the restaurant as a place for special occasions and memorable dining experiences. The emphasis is on visual appeal and the refined nature of the restaurant's offerings.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_3": {
     "layout": "Trend 3 puts a strong emphasis on the lively and social aspect of the restaurant experience. The extensive use of videos in the layout captures the bustling atmosphere, the making of drinks, and the preparation and enjoyment of food. The music, adds an energetic and contemporary feel, making the restaurant seem like a trendy and fun place to hang out with friends and family. The focus is on the interactive and engaging environment of the restaurant.",
@@ -17,7 +17,7 @@
   },
   "trend_5": {
     "layout": "Trend 5 emphasizes a blend of aesthetic elegance and diverse offerings through a photo-centric layout. The series of photos captures the refined interior, enticing drinks, and delectable food. The music, infuses a sense of excitement and anticipation, highlighting the countdown to an extraordinary dining experience. The focus is on visual appeal and a build-up to enjoying the restaurant's offerings.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_6": {
     "layout": "Trend 6 focuses on a vibrant and dynamic visual presentation through a multitude of photos. The extensive use of small snapshots of the interior, drinks, and food creates a lively and bustling atmosphere. The energetic music, complements this layout, encouraging a fun and spirited dining experience. The emphasis is on the lively, upbeat, and diverse nature of the restaurant.",
