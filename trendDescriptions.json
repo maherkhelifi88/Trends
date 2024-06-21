@@ -25,7 +25,7 @@
   },
   "trend_7": {
     "layout": "Trend 7 highlights an immersive and captivating dining experience with a focus on video content. The layout, dominated by videos of the interior and food, captures the essence of the restaurant's ambiance and culinary delights. The music, adds a rhythmic and engaging vibe, drawing viewers into the experience. The emphasis is on creating a visually engaging and immersive representation of the restaurant's offerings.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_8": {
     "layout": "Trend 8 focuses on an energetic and vibrant atmosphere with a strong emphasis on video content. The videos of the interior and drinks highlight the lively and social environment of the restaurant. The music, enhances this energy with its upbeat and lively tempo, making viewers feel the vibrant and festive spirit. The emphasis is on the dynamic and social aspects of the restaurant experience.",
@@ -37,7 +37,7 @@
   },
   "trend_10": {
     "layout": "Trend 10 emphasizes the restaurant's interior design through a variety of video content. The layout captures different angles and details of the interior, creating a comprehensive view of the restaurant's ambiance. The music,adds an edgy and contemporary feel, aligning with the modern and stylish presentation. The emphasis is on the unique and trendy interior of the restaurant.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_11": {
     "layout": "Trend 11 highlights both the interior and food of the restaurant through engaging video content. The balanced layout captures the inviting ambiance and delicious dishes. The music, adds a rhythmic and vibrant vibe, creating a warm and lively atmosphere. The focus is on providing a well-rounded visual experience of the restaurant's offerings.",
@@ -45,15 +45,15 @@
   },
   "trend_12": {
     "layout": "Trend 12 focuses on a balanced representation of the restaurant's interior and food through video content. The layout showcases the ambiance and culinary delights, with an emphasis on the food. The music, adds a fun and upbeat tone, making the dining experience feel lively and enjoyable. The emphasis is on the appealing presentation of both the interior and food.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_13": {
     "layout": "Trend 13 highlights the balanced and harmonious experience of dining at the restaurant. The video-focused layout showcases both the inviting interior and the delightful food and drinks, capturing the essence of each. The music,enhances this feeling with its uplifting and cheerful tone, making viewers feel the joy and satisfaction of a wonderful dining experience. The emphasis is on the delightful and balanced experience offered by the restaurant.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_14": {
     "layout": "Trend 14 focuses on the rhythmic and lively atmosphere of the restaurant. The layout with alternating videos of the interior, food, and drinks captures the dynamic energy of the place. The music, adds a funky and vibrant vibe, making the restaurant appear as a hip and happening spot to enjoy great food and drinks. The emphasis is on the vibrant and rhythmic dining experience.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_15": {
     "layout": "Trend 15 highlights the smooth and elegant atmosphere of the restaurant. The video-heavy layout with extended focus on the interior, food, and drinks captures the sophistication and grace of the dining experience. The music,adds a smooth and relaxing feel, making the restaurant seem like a perfect place for a refined and leisurely meal. The emphasis is on the elegance and smooth flow of the dining experience.",
@@ -69,11 +69,11 @@
   },
   "trend_18": {
     "layout": "Trend 18 focuses on the culinary artistry of the restaurant. The video layout, with an emphasis on food, showcases the meticulous preparation and presentation of dishes. The music, adds a romantic and heartfelt vibe, highlighting the passion and love that goes into the cooking. The emphasis is on the love and care in the culinary experience.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_19": {
     "layout": "Trend 19 highlights the restaurant as a haven for food lovers. The video-heavy layout focuses extensively on food, showcasing a wide variety of dishes in detail. The music, adds a fun and upbeat feel, celebrating the joy of eating. The emphasis is on the variety and deliciousness of the food.",
-  "fadeout": true 
+  "fadeout": false 
   },
   "trend_20": {
     "layout": "Trend 20 emphasizes the warm and inviting nature of the restaurant. The varied video durations capture the cozy interior, delicious food, and refreshing drinks. The music, adds a warm and affectionate tone, making the restaurant feel like a place where love and care are served with every meal. The emphasis is on the inviting and loving dining experience.",
@@ -81,11 +81,11 @@
   },
   "trend_21": {
     "layout": "rend 21 highlights an extended and immersive dining experience. The longer video durations capture the intricacies of the restaurant's interior, the food, and the drinks. The music, adds a sense of adventure and desire, making the restaurant appear as a destination worth exploring and indulging in. The emphasis is on the immersive and exploratory dining experience.",
-   "fadeout": true 
+   "fadeout": false 
   },
   "trend_22": {
     "layout": "Trend 22 emphasizes the depth and richness of the dining experience. The long video durations showcase the detailed aspects of the restaurant's interior, the elaborate food presentations, and the exquisite drinks. The music, adds a sense of curiosity and discovery, highlighting the intricate details and the sophisticated atmosphere of the restaurant. The emphasis is on the richness and depth of the dining experience.",
-   "fadeout": true 
+   "fadeout": false 
   },
   "trend_23": {
     "layout": "Trend 23 emphasizes a dynamic and varied dining experience. The video layout captures various aspects of the restaurant's interior and the food and drinks, with varying durations to showcase different elements. The music, adds a bright and cheerful tone, highlighting the dynamic and lively nature of the restaurant. The emphasis is on the variety and dynamism of the dining experience.",
@@ -105,7 +105,7 @@
   },
   "trend_27": {
     "description": "This Trend features a series of engaging food videos, capturing the intricate details and preparation of various dishes. The layout is visually appealing, highlighting different aspects of the culinary process. The music adds a lively and upbeat atmosphere, enhancing the viewer's experience and making them feel immersed in the world of food.",
-   "fadeout": true 
+   "fadeout": false 
   },
   "trend_28": {
     "description": "This Trend presents a diverse collection of food videos, each showcasing different dishes and culinary techniques. The layout emphasizes variety and creativity in food presentation. The music complements the dynamic visual content, creating an exciting and energetic vibe that draws the viewer into the vibrant world of gastronomy.",
@@ -113,15 +113,15 @@
   },
   "trend_29": {
     "description": "This Trend combines videos of restaurant interiors and food, creating a comprehensive view of the dining experience. The layout alternates between showcasing the ambiance of the restaurant and the delectable dishes served. The music provides a sophisticated and relaxed background, enhancing the overall dining atmosphere and making it more inviting.",
-   "fadeout": true 
+   "fadeout": false 
   },
   "trend_30": {
     "description": "Showcasing a Variety of Dishes from the Menu:  Showcasing a variety of dishes from the menu, this video highlights the exquisite flavors and artful presentation. From tantalizing appetizers to mouthwatering entrees and refreshing drinks, each clip captures the essence of the diverse offerings",
-   "fadeout": true 
+   "fadeout": false 
   },
   "trend_31": {
     "description": "Showcasing the Restaurant: Atmosphere, Food, and Drinks:Showcasing the Restaurant: Atmosphere, Food, and Drinks, this video captures the vibrant ambiance, delightful dishes, and refreshing beverages. Experience the inviting atmosphere, savor the delicious food, and enjoy the crafted drinks as each clip highlights the best of what the restaurant has to offer.",
-   "fadeout": true 
+   "fadeout": false 
   },
   "trend_32": {
     "description": "Showcasing the same dish from the menu, this video highlights its presentation from multiple angles. Enjoy the detailed view of this culinary delight through various clips, each capturing the dish's exquisite presentation and appeal.",
