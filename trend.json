@@ -173,11 +173,18 @@
     "layout": "atmosphere:01.93:video,drinks:0.99:video,food:01.00:video,food:01.03:video,restaurant interior:0.14:video",
     "music": "man in finance.m4a",
     "fadeout": "True",
-      },
+   },
   "trend_36": {
     "layout": "drinks:01.39:video,food:01.26:video,food:01.13:video,food:0.94:video,food:0.97:video,food:0.97:video,food:0.81:video,"
     "music": "on of this .m4a",
     "fadeout": "True", 
   },
-
- 
+  "trend_37":{
+  "layout"food:0.92:video,food:0..71:video,food:0.76:video,food:0.83:video,food:2:video,food:0.57:video,food:0.77:video,food:1.84:video",
+  "music": "Mambo no.5.m4a",
+  },
+  "trend_37":{
+  "layout"food:1.10:video,food:0.67:video,food:1.2:video,food:0.73:video,food:0.7:video,food:1.07:video,food:0.76:video",
+  "music": "my toxic trait.m4a",
+  
+  
