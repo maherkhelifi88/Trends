@@ -67,12 +67,13 @@
     },
     "trend_23": {
         "layout": "https://drive.google.com/file/d/12IACCqUOKPh42fqsqXKLfVvB9UdLyyfv/view?usp=sharing"
+
     },
     "trend_24": {
-        "layout": ""
+        "layout": "https://drive.google.com/file/d/12IACCqUOKPh42fqsqXKLfVvB9UdLyyfv/view?usp=sharing"
     },
     "trend_25": {
-        "layout": "https://drive.google.com/file/d/12IACCqUOKPh42fqsqXKLfVvB9UdLyyfv/view?usp=sharing"
+        "description": ""
     },
     "trend_26": {
         "description": ""
@@ -87,9 +88,6 @@
         "description": ""
     },
     "trend_30": {
-        "description": ""
-    },
-    "trend_31": {
         "description": ""
     }
 }
