@@ -115,76 +115,71 @@
     "fadeout": "True",
   },
   "trend_24": {
-    "layout": "restaurant interior:1.8:video,restaurant interior:1.3:video,restaurant interior:1.2:video,restaurant interior:1.75:video,restaurant interior:0.9:video,restaurant interior:1.75:video,restaurant interior:0.8:video, food:1.25:video,food:1.25:video,drinks:1:video,food:1:video,drinks:1:video,food:1.15:video,food:1.15:video,food:1:video,food:1.1:video,drinks:1:video,food:1:video,food:1:video,drinks:2:video,restaurant interior:1:video",
-    "music": "sun.m4a",
-    "fadeout": "True",
-  },
-  "trend_25": {
     "layout": "restaurant interior:1.35:video, food:1.07:video,food:1.41:video,drinks:1.46:video,food:1.75:video,drinks:1.11:video,food:3.34:video,drinks:2.38:video",
     "music": "summertime.m4a",
     "fadeout": "True",
   },
-  "trend_26": {
+  "trend_25": {
     "layout": "restaurant interior:0.73:video, food:1.66:video,food:1.61:video,food:1.06:video,food:2.68:video,food:1.87:video,food:1.89:video,food:1.85:video,drinks:1.89:video,food:1.29:video",
     "music": "letsgetit.m4a",
     "fadeout": "True",
   },
-  "trend_27": {
+  "trend_26": {
     "layout": "food:0.71:video,food:0.2:video,food:0.2:video,food:0.2:video,food:0.2:video,food:0.2:video,food:0.2:video,food:0.6:video,food:0.2:video,food:0.2:video,food:0.2:video,food:0.2:video,food:0.2:video",
     "music": "5.m4a",
     "fadeout": "False",
   },
-  "trend_28": {
+  "trend_27": {
     "layout": "food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:0.15:video,food:1.53:video,food:0.78:video,food:0.83:video,food:0.82:video,food:0.82:video,food:0.48:video",
     "music": "10.m4a",
     "fadeout": "True",
   },
-  "trend_29": {
+  "trend_28": {
     "layout": "restaurant interior:0.8:video,food:0.63:video,restaurant interior:0.6:video,food:0.47:video,food:0.74:video,drinks:0.63:video,drinks:0.46:video,restaurant interior:0.83:video",
     "music": "25.m4a",
     "fadeout": "False",
   },
-  "trend_30": {
+  "trend_29": {
     "layout": "food:1.23:video,food:1.18:video,Drink:1.07:video,food:0.58:video,food:0.5:video,Drink:1.89:video ",
     "music": "Monday,Tuesday,Wednesday.m4a",
     "fadeout": "False",
   },
-  "trend_31": {
+  "trend_30": {
     "layout": "Restaurant:0.94:video,Drink:0.98:video,food:0.5:video,Drink:0.49:video,Restaurant:0.99:video,Restaurant:0.81:video",
     "music": "trend2.m4a",
     "fadeout": "False",
   },
-  "trend_32": {
+  "trend_31": {
     "layout": "Food:0.94:video,food:1.53:video,food:0.74:video,food:1.16:video,food:1.13:video,food:1.41:video,food:0.81:video",
     "music": "Trends3.m4a",
     "fadeout": "True",
   },
-  "trend_33": {
+  "trend_32": {
     "layout": "atmophere:01.86:video,drinks:0.64:video,Drink:1.03:video,Drinks:0.82:video,drinks:0.54:video,drinks:0.61:video,drinks:0.59:video",
     "music": "Holiday.m4a",
     "fadeout": "False",
   },
-  "trend_34": {
+  "trend_33": {
     "layout": "food:03.13:video,food:02.52:video,food:02.78:video",
     "music": "Holiday.m4a",
     "fadeout": "False",
   },
-  "trend_35": {
+  "trend_34": {
     "layout": "atmosphere:01.93:video,drinks:0.99:video,food:01.00:video,food:01.03:video,restaurant interior:0.14:video",
     "music": "man in finance.m4a",
     "fadeout": "True",
    },
-  "trend_36": {
+  "trend_35": {
     "layout": "drinks:01.39:video,food:01.26:video,food:01.13:video,food:0.94:video,food:0.97:video,food:0.97:video,food:0.81:video,"
     "music": "on of this .m4a",
     "fadeout": "True", 
   },
-  "trend_37":{
+  "trend_36":{
   "layout": "food:0.92:video,food:0.71:video,food:0.76:video,food:0.83:video,food:2:video,food:0.57:video,food:0.77:video,food:1.84:video",
   "music": "Mambo no.5.m4a",
  "fadeout": "False" 
   },
-  "trend_38":{
+  "trend_37":{
   "layout":"food:1.10:video,food:0.67:video,food:1.2:video,food:0.73:video,food:0.7:video,food:1.07:video,food:0.76:video",
   "music": "my toxic trait.m4a",
   "fadeout": "False" 
